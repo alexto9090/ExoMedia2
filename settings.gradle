@@ -1,0 +1,3 @@
+rootProject.name = "ExoMedia2"
+include ':app'
+include ':exomedia'
