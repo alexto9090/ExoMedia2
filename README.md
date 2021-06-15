@@ -1,5 +1,4 @@
 # ExoMedia2
- ExoMedia2
 ============
 [//]: # (SEO terms: Simple ExoPlayer, ExoPlayer TextureView, ExoPlayer SurfaceView, ExoPlayer VideoView, ExoPlayer Audio)
 ExoMedia2 is a media playback library with similar APIs to the Android MediaPlayer
